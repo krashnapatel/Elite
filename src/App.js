@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <p>Krashna patel milan</p>
+    <p>Krashna patel amiras</p>
   );
 }
 
